@@ -1,0 +1,264 @@
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-2 org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG http-nio-8080-exec-2 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-2 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-2 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-2 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG Finalizer org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG Finalizer org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 1804080784.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@6b881690]
+DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - ==>  Preparing: select * from face_user
+DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - ==> Parameters: 
+DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - <==      Total: 0
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@6b881690]
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@6b881690]
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - Returned connection 1804080784 to pool.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 915362073.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@368f5119]
+DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - ==>  Preparing: select * from face_user
+DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - ==> Parameters: 
+DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - <==      Total: 0
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@368f5119]
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@368f5119]
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - Returned connection 915362073 to pool.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 547082375.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@209bd087]
+DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - ==>  Preparing: select * from face_user
+DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - ==> Parameters: 
+DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - <==      Total: 0
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@209bd087]
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@209bd087]
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - Returned connection 547082375 to pool.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 74306040.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@46dd1f8]
+DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - ==>  Preparing: select * from face_user
+DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - ==> Parameters: 
+DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - <==      Total: 0
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@46dd1f8]
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@46dd1f8]
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - Returned connection 74306040 to pool.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 875870041.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3434b759]
+DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - ==>  Preparing: select * from face_user
+DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - ==> Parameters: 
+DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - <==      Total: 0
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3434b759]
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3434b759]
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - Returned connection 875870041 to pool.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 400676796.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@17e1d7bc]
+DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - ==>  Preparing: select * from face_user
+DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - ==> Parameters: 
+DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - <==      Total: 0
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@17e1d7bc]
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@17e1d7bc]
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - Returned connection 400676796 to pool.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 1525129857.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@5ae7a281]
+DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - ==>  Preparing: select * from face_user
+DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - ==> Parameters: 
+DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - <==      Total: 0
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@5ae7a281]
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@5ae7a281]
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - Returned connection 1525129857 to pool.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 547082375.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@209bd087]
+DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - ==>  Preparing: select * from face_user
+DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - ==> Parameters: 
+DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - <==      Total: 1
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@209bd087]
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@209bd087]
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - Returned connection 547082375 to pool.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 1020747076.
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3cd75d44]
+DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - ==>  Preparing: select * from face_user
+DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - ==> Parameters: 
+DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - <==      Total: 1
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3cd75d44]
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3cd75d44]
+DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - Returned connection 1020747076 to pool.
+[DEBUG] [2022-05-18 14:44:06][org.apache.ibatis.logging.LogFactory - 105]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG] [2022-05-18 14:44:06][org.apache.ibatis.datasource.pooled.PooledDataSource - 363]PooledDataSource forcefully closed/removed all connections.
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+[DEBUG] [2022-05-18 14:44:06][org.apache.ibatis.datasource.pooled.PooledDataSource - 363]PooledDataSource forcefully closed/removed all connections.
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+[DEBUG] [2022-05-18 14:44:06][org.apache.ibatis.datasource.pooled.PooledDataSource - 363]PooledDataSource forcefully closed/removed all connections.
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+[DEBUG] [2022-05-18 14:44:06][org.apache.ibatis.datasource.pooled.PooledDataSource - 363]PooledDataSource forcefully closed/removed all connections.
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+[DEBUG] [2022-05-18 14:44:06][org.apache.ibatis.transaction.jdbc.JdbcTransaction - 137]Opening JDBC Connection
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+[DEBUG] [2022-05-18 14:44:06][org.apache.ibatis.datasource.pooled.PooledDataSource - 434]Created connection 1770791020.
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 1770791020.
+[DEBUG] [2022-05-18 14:44:06][org.apache.ibatis.transaction.jdbc.JdbcTransaction - 101]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@698c206c]
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@698c206c]
+[DEBUG] [2022-05-18 14:44:06][com.example.face.mapper.UserMapper.selectQuery - 137]==>  Preparing: select * from face_user
+ DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - ==>  Preparing: select * from face_user
+[DEBUG] [2022-05-18 14:44:06][com.example.face.mapper.UserMapper.selectQuery - 137]==> Parameters: 
+ DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - ==> Parameters: 
+[DEBUG] [2022-05-18 14:44:06][com.example.face.mapper.UserMapper.selectQuery - 137]<==      Total: 1
+ DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - <==      Total: 1
+[DEBUG] [2022-05-18 14:44:06][org.apache.ibatis.transaction.jdbc.JdbcTransaction - 123]Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@698c206c]
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@698c206c]
+[DEBUG] [2022-05-18 14:44:06][org.apache.ibatis.transaction.jdbc.JdbcTransaction - 91]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@698c206c]
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@698c206c]
+[DEBUG] [2022-05-18 14:44:06][org.apache.ibatis.datasource.pooled.PooledDataSource - 391]Returned connection 1770791020 to pool.
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - Returned connection 1770791020 to pool.
+[DEBUG] [2022-05-18 14:45:54][org.apache.ibatis.logging.LogFactory - 105]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG] [2022-05-18 14:45:54][org.apache.ibatis.datasource.pooled.PooledDataSource - 363]PooledDataSource forcefully closed/removed all connections.
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+[DEBUG] [2022-05-18 14:45:54][org.apache.ibatis.datasource.pooled.PooledDataSource - 363]PooledDataSource forcefully closed/removed all connections.
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+[DEBUG] [2022-05-18 14:45:54][org.apache.ibatis.datasource.pooled.PooledDataSource - 363]PooledDataSource forcefully closed/removed all connections.
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+[DEBUG] [2022-05-18 14:45:54][org.apache.ibatis.datasource.pooled.PooledDataSource - 363]PooledDataSource forcefully closed/removed all connections.
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+[DEBUG] [2022-05-18 14:45:54][org.apache.ibatis.transaction.jdbc.JdbcTransaction - 137]Opening JDBC Connection
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+[DEBUG] [2022-05-18 14:45:55][org.apache.ibatis.datasource.pooled.PooledDataSource - 434]Created connection 1719477454.
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 1719477454.
+[DEBUG] [2022-05-18 14:45:55][org.apache.ibatis.transaction.jdbc.JdbcTransaction - 101]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@667d24ce]
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@667d24ce]
+[DEBUG] [2022-05-18 14:45:55][com.example.face.mapper.UserMapper.selectQuery - 137]==>  Preparing: select * from face_user
+ DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - ==>  Preparing: select * from face_user
+[DEBUG] [2022-05-18 14:45:55][com.example.face.mapper.UserMapper.selectQuery - 137]==> Parameters: 
+ DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - ==> Parameters: 
+[DEBUG] [2022-05-18 14:45:55][com.example.face.mapper.UserMapper.selectQuery - 137]<==      Total: 1
+ DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - <==      Total: 1
+[DEBUG] [2022-05-18 14:45:55][org.apache.ibatis.transaction.jdbc.JdbcTransaction - 123]Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@667d24ce]
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@667d24ce]
+[DEBUG] [2022-05-18 14:45:55][org.apache.ibatis.transaction.jdbc.JdbcTransaction - 91]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@667d24ce]
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@667d24ce]
+[DEBUG] [2022-05-18 14:45:55][org.apache.ibatis.datasource.pooled.PooledDataSource - 391]Returned connection 1719477454 to pool.
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - Returned connection 1719477454 to pool.
+[DEBUG] [2022-05-18 14:47:21][org.apache.ibatis.logging.LogFactory - 105]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG] [2022-05-18 14:47:21][org.apache.ibatis.datasource.pooled.PooledDataSource - 363]PooledDataSource forcefully closed/removed all connections.
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+[DEBUG] [2022-05-18 14:47:21][org.apache.ibatis.datasource.pooled.PooledDataSource - 363]PooledDataSource forcefully closed/removed all connections.
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+[DEBUG] [2022-05-18 14:47:21][org.apache.ibatis.datasource.pooled.PooledDataSource - 363]PooledDataSource forcefully closed/removed all connections.
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+[DEBUG] [2022-05-18 14:47:21][org.apache.ibatis.datasource.pooled.PooledDataSource - 363]PooledDataSource forcefully closed/removed all connections.
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+[DEBUG] [2022-05-18 14:47:22][org.apache.ibatis.transaction.jdbc.JdbcTransaction - 137]Opening JDBC Connection
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+[DEBUG] [2022-05-18 14:47:22][org.apache.ibatis.datasource.pooled.PooledDataSource - 434]Created connection 660571067.
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 660571067.
+[DEBUG] [2022-05-18 14:47:22][org.apache.ibatis.transaction.jdbc.JdbcTransaction - 101]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@275f83bb]
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@275f83bb]
+[DEBUG] [2022-05-18 14:47:22][com.example.face.mapper.UserMapper.selectQuery - 137]==>  Preparing: select * from face_user
+ DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - ==>  Preparing: select * from face_user
+[DEBUG] [2022-05-18 14:47:22][com.example.face.mapper.UserMapper.selectQuery - 137]==> Parameters: 
+ DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - ==> Parameters: 
+[DEBUG] [2022-05-18 14:47:22][com.example.face.mapper.UserMapper.selectQuery - 137]<==      Total: 1
+ DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - <==      Total: 1
+[DEBUG] [2022-05-18 14:47:22][com.example.face.service.impl.UserServiceImpl - 41]张三
+ DEBUG http-nio-8080-exec-1 com.example.face.service.impl.UserServiceImpl - 张三
+[DEBUG] [2022-05-18 14:47:22][org.apache.ibatis.transaction.jdbc.JdbcTransaction - 123]Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@275f83bb]
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@275f83bb]
+[DEBUG] [2022-05-18 14:47:22][org.apache.ibatis.transaction.jdbc.JdbcTransaction - 91]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@275f83bb]
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@275f83bb]
+[DEBUG] [2022-05-18 14:47:22][org.apache.ibatis.datasource.pooled.PooledDataSource - 391]Returned connection 660571067 to pool.
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - Returned connection 660571067 to pool.
+[DEBUG] [2022-05-18 14:48:30][org.apache.ibatis.logging.LogFactory - 105]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG] [2022-05-18 14:48:30][org.apache.ibatis.datasource.pooled.PooledDataSource - 363]PooledDataSource forcefully closed/removed all connections.
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+[DEBUG] [2022-05-18 14:48:30][org.apache.ibatis.datasource.pooled.PooledDataSource - 363]PooledDataSource forcefully closed/removed all connections.
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+[DEBUG] [2022-05-18 14:48:30][org.apache.ibatis.datasource.pooled.PooledDataSource - 363]PooledDataSource forcefully closed/removed all connections.
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+[DEBUG] [2022-05-18 14:48:30][org.apache.ibatis.datasource.pooled.PooledDataSource - 363]PooledDataSource forcefully closed/removed all connections.
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+[DEBUG] [2022-05-18 14:48:30][org.apache.ibatis.transaction.jdbc.JdbcTransaction - 137]Opening JDBC Connection
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+[DEBUG] [2022-05-18 14:48:31][org.apache.ibatis.datasource.pooled.PooledDataSource - 434]Created connection 754121184.
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 754121184.
+[DEBUG] [2022-05-18 14:48:31][org.apache.ibatis.transaction.jdbc.JdbcTransaction - 101]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2cf2f9e0]
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2cf2f9e0]
+[DEBUG] [2022-05-18 14:48:31][com.example.face.mapper.UserMapper.selectQuery - 137]==>  Preparing: select * from face_user
+ DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - ==>  Preparing: select * from face_user
+[DEBUG] [2022-05-18 14:48:32][com.example.face.mapper.UserMapper.selectQuery - 137]==> Parameters: 
+ DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - ==> Parameters: 
+[DEBUG] [2022-05-18 14:48:32][com.example.face.mapper.UserMapper.selectQuery - 137]<==      Total: 1
+ DEBUG http-nio-8080-exec-1 com.example.face.mapper.UserMapper.selectQuery - <==      Total: 1
+[DEBUG] [2022-05-18 14:48:32][com.example.face.service.impl.UserServiceImpl - 40]张三
+ DEBUG http-nio-8080-exec-1 com.example.face.service.impl.UserServiceImpl - 张三
+[DEBUG] [2022-05-18 14:48:32][org.apache.ibatis.transaction.jdbc.JdbcTransaction - 123]Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2cf2f9e0]
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2cf2f9e0]
+[DEBUG] [2022-05-18 14:48:32][org.apache.ibatis.transaction.jdbc.JdbcTransaction - 91]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2cf2f9e0]
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.transaction.jdbc.JdbcTransaction - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2cf2f9e0]
+[DEBUG] [2022-05-18 14:48:32][org.apache.ibatis.datasource.pooled.PooledDataSource - 391]Returned connection 754121184 to pool.
+ DEBUG http-nio-8080-exec-1 org.apache.ibatis.datasource.pooled.PooledDataSource - Returned connection 754121184 to pool.
